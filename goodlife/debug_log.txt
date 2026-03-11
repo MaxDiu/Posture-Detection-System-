@@ -1,0 +1,84 @@
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1773218297.912935   12528 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+Vosk Audio System Initialized.
+Initializing Mediapipe...
+Mediapipe Initialized.
+ * Serving Flask app 'posture_detection'
+ * Debug mode: off
+W0000 00:00:1773218297.928759    2192 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.163.145.238:5000
+Press CTRL+C to quit
+W0000 00:00:1773218297.946098   26608 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1773218297.962223   26608 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1773218298.009916   23132 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1773218298.031713   23132 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+127.0.0.1 - - [11/Mar/2026 16:38:18] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:18] "OPTIONS /set_elder HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:18] "POST /set_elder HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:18] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:18] "GET /status HTTP/1.1" 200 -
+W0000 00:00:1773218299.633966   15936 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+127.0.0.1 - - [11/Mar/2026 16:38:19] "GET /video_feed HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:19] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:20] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:20] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:20] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:21] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:21] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:22] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:22] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:22] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:22] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:23] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:24] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:24] "GET /video_feed HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:25] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:26] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:26] "GET /video_feed HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:27] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:27] "GET /video_feed HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:29] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:31] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:33] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:35] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:37] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:39] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:41] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:41] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:41] "GET /video_feed HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:42] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:42] "GET /video_feed HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:44] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:46] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:46] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:46] "GET /video_feed HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:46] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:47] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:47] "GET /video_feed HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:48] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:48] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:48] "GET /video_feed HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:49] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:49] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:50] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:50] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:50] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:51] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:51] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:52] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:52] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:52] "OPTIONS /resolve_alert HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:52] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:52] "POST /resolve_alert HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:53] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:53] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:54] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:54] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:54] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:55] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:55] "GET /shutdown HTTP/1.1" 200 -
+127.0.0.1 - - [11/Mar/2026 16:38:56] "GET /status HTTP/1.1" 200 -
